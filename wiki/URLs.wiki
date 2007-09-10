@@ -1,4 +1,4 @@
-#summary List of URLS
+#summary List of useful URLS
 
 = STOMP protocol URLs =
 
@@ -8,4 +8,3 @@ Here is a list of URLs related to STOMP protocol:
   * [http://stomp.codehaus.org/Transaction+Handling Named transactions]
   * [http://stomp.codehaus.org/Ack+Modes Acknowledgement modes]
   * [http://svn.stomp.codehaus.org/browse/stomp/trunk STOMP project code]
-
