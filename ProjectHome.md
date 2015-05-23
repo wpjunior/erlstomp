@@ -1,0 +1,4 @@
+The erlstomp project is pure erlang implementation of STOMP protocol.
+
+### General Concept of the Project ###
+Main idea of the project is to start coding in `erlang` programming language, learn the language by practice, evaluate its features etc. It was proposed to the `erlang-questions` discussion group as a challenge for `erlang` wonnabes (see [archived post](http://www.erlang.org/pipermail/erlang-questions/2007-September/029075.html)).  Coders from different backgrounds keen in `erlang` programing languages decided to join the project to study the language by coding in practice instead of only reading the theory.
